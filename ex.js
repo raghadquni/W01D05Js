@@ -35,14 +35,13 @@ console.log( "reveseCase = " , reveseCase);
 
  
 
-let startRange = (1,5);
+/* let startRange = (1,5);
 let endRange = (5,10);
 
 for (rang = startRange; rang <= endRange; rang++) {
     console.log(rang);
 }
-// for( r = startRange[0]; r <startRange[1] ; r++ ) {
-
+*/
     
 
 
